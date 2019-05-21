@@ -87,7 +87,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
 - [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
+    - [x][Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
     - balanced search trees (general concept, not details)
